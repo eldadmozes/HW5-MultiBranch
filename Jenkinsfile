@@ -4,7 +4,7 @@ pipeline{
                 stage("Run code"){
                         steps {
 
-                                        echo "the branch: main"
+                                        echo "the branch: 3rdBranch"
                                         echo "my name is eldad"
                         }
                 }
